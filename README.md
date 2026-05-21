@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ernandeseng
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+I love technology and marketing, so I decided to combine them. 
 
 <!---
 ernandeseng/ernandeseng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
